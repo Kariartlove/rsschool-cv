@@ -15,8 +15,8 @@
 
 ### Skills:
 * HTML (in progress…)
-* CSS
-* Git/GitHub
+* CSS (in progress…)
+* Git/GitHub (in progress…)
 
 
 ## Code examples

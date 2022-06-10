@@ -14,7 +14,7 @@
 * teamwork
 
 ### Skills:
-* HTML
+* HTML (in progress…)
 * CSS
 * Git/GitHub
 
